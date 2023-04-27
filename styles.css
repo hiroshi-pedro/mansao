@@ -87,11 +87,11 @@ a {
     border-radius: 20px;
     background-color: rgb(52,52,52);
     font-size: 70px;
+    text-align: center;
 }
 
 .title-share-button  i{
-    margin-left: 12px;
-    margin-top: 10px;
+   vertical-align: middle;
 }
 
 
